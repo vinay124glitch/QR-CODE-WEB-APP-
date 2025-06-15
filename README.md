@@ -29,7 +29,10 @@ A full-featured **QR Code Web Application** built with HTML, CSS, and JavaScript
 
 | Scan QR | Generate QR | History |
 |--------|-------------|---------|
-| ![Scan](screenshots/scan.png) | ![Generate](screenshots/generate.png) | ![History](screenshots/history.png) |
+| ![Scan](<img width="904" alt="image" src="https://github.com/user-attachments/assets/5bffbfa4-e0ef-401e-be61-935f011b63cc" />
+) | ![Generate](<img width="641" alt="image" src="https://github.com/user-attachments/assets/efe5a5a5-318e-4244-8734-f074ea2e2c98" />
+) | ![History](<img width="914" alt="image" src="https://github.com/user-attachments/assets/bb5ff381-a6db-442e-a622-305a3fee2cb0" />
+) |
 
 *(Add screenshots in the `screenshots/` folder)*
 
